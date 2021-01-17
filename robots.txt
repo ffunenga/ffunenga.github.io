@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://aopi.pt/sitemap.xml
+Sitemap: https://aopi.pt/cpi2003/sitemap.xml
